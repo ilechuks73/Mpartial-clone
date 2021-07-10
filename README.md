@@ -7,6 +7,6 @@ mpartial app is divided into 20 tasks
 
 1-Taimoor tasks HEADER,FOOTER,NAVBAR
 2-ABDUL tasks CONTACTUS,FEE STRUCTURES,AND THEIR WORKING
-3-
+3-JOSHua mitigation and how-it-works
 4-
 5-
